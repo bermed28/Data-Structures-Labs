@@ -1,0 +1,183 @@
+﻿
+Heap content after adding element 20
+    
+    __ROOT(20)
+
+Heap content after removing element 20
+Tree is empty.
+
+Heap content after adding element 10
+    
+    __ROOT(10)
+
+Heap content after adding element 22
+    
+    __ROOT(10)
+       |
+       |__L(22)
+
+Heap content after adding element 7
+    
+    __ROOT(7)
+       |
+       |__L(22)
+       |
+       |__R(10)
+
+Heap content after adding element 13
+    
+    __ROOT(7)
+       |
+       |__L(13)
+       |   |
+       |   |__L(22)
+       |
+       |__R(10)
+
+Heap content after adding element 23
+    
+    __ROOT(7)
+       |
+       |__L(13)
+       |   |
+       |   |__L(22)
+       |   |
+       |   |__R(23)
+       |
+       |__R(10)
+
+Heap content after adding element 100
+    
+    __ROOT(7)
+       |
+       |__L(13)
+       |   |
+       |   |__L(22)
+       |   |
+       |   |__R(23)
+       |
+       |__R(10)
+           |
+           |__L(100)
+
+Heap content after adding element 9
+    
+    __ROOT(7)
+       |
+       |__L(13)
+       |   |
+       |   |__L(22)
+       |   |
+       |   |__R(23)
+       |
+       |__R(9)
+           |
+           |__L(100)
+           |
+           |__R(10)
+
+Heap content after adding element 0
+    
+    __ROOT(0)
+       |
+       |__L(7)
+       |   |
+       |   |__L(13)
+       |   |   |
+       |   |   |__L(22)
+       |   |
+       |   |__R(23)
+       |
+       |__R(9)
+           |
+           |__L(100)
+           |
+           |__R(10)
+
+Heap content after adding element 4
+    
+    __ROOT(0)
+       |
+       |__L(4)
+       |   |
+       |   |__L(7)
+       |   |   |
+       |   |   |__L(22)
+       |   |   |
+       |   |   |__R(13)
+       |   |
+       |   |__R(23)
+       |
+       |__R(9)
+           |
+           |__L(100)
+           |
+           |__R(10)
+
+Heap content after adding element 8
+    
+    __ROOT(0)
+       |
+       |__L(4)
+       |   |
+       |   |__L(7)
+       |   |   |
+       |   |   |__L(22)
+       |   |   |
+       |   |   |__R(13)
+       |   |
+       |   |__R(8)
+       |       |
+       |       |__L(23)
+       |
+       |__R(9)
+           |
+           |__L(100)
+           |
+           |__R(10)
+
+Heap content after adding element 3
+    
+    __ROOT(0)
+       |
+       |__L(3)
+       |   |
+       |   |__L(7)
+       |   |   |
+       |   |   |__L(22)
+       |   |   |
+       |   |   |__R(13)
+       |   |
+       |   |__R(4)
+       |       |
+       |       |__L(23)
+       |       |
+       |       |__R(8)
+       |
+       |__R(9)
+           |
+           |__L(100)
+           |
+           |__R(10)
+
+Heap content after removing element 0
+    
+    __ROOT(3)
+       |
+       |__L(4)
+       |   |
+       |   |__L(7)
+       |   |   |
+       |   |   |__L(22)
+       |   |   |
+       |   |   |__R(13)
+       |   |
+       |   |__R(8)
+       |       |
+       |       |__L(23)
+       |
+       |__R(9)
+           |
+           |__L(100)
+           |
+           |__R(10)

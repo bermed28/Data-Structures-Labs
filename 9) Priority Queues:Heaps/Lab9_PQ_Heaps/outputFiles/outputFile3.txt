@@ -1,0 +1,244 @@
+﻿
+PQ content after adding entry: key = 20 and value = twenty
+[20, twenty]
+
+PQ content after removing highest priority element [20, twenty]
+EMPTY
+
+PQ content after removing highest priority element null
+EMPTY
+
+PQ content after adding entry: key = 10 and value = ten
+[10, ten]
+
+PQ content after adding entry: key = 22 and value = twenty two
+[10, ten]
+[22, twenty two]
+
+PQ content after adding entry: key = 7 and value = seven
+[10, ten]
+[22, twenty two]
+[7, seven]
+
+PQ content after adding entry: key = 13 and value = thirteen
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+
+PQ content after adding entry: key = 23 and value = twenty three
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+
+PQ content after adding entry: key = 100 and value = hundred
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+
+PQ content after adding entry: key = 9 and value = nine
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+
+PQ content after adding entry: key = 0 and value = zero
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[0, zero]
+
+PQ content after adding entry: key = 4 and value = four
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[0, zero]
+[4, four]
+
+PQ content after adding entry: key = 8 and value = eight
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[0, zero]
+[4, four]
+[8, eight]
+
+PQ content after adding entry: key = 3 and value = three
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[0, zero]
+[4, four]
+[8, eight]
+[3, three]
+
+PQ content after removing highest priority element [0, zero]
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[4, four]
+[8, eight]
+[3, three]
+
+PQ content after removing highest priority element [3, three]
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[4, four]
+[8, eight]
+
+PQ content after removing highest priority element [4, four]
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[8, eight]
+
+PQ content after adding entry: key = 9 and value = nine
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[8, eight]
+[9, nine]
+
+PQ content after adding entry: key = 0 and value = zero
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[8, eight]
+[9, nine]
+[0, zero]
+
+PQ content after adding entry: key = 4 and value = four
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[8, eight]
+[9, nine]
+[0, zero]
+[4, four]
+
+PQ content after removing highest priority element [0, zero]
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[8, eight]
+[9, nine]
+[4, four]
+
+PQ content after removing highest priority element [4, four]
+[10, ten]
+[22, twenty two]
+[7, seven]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[8, eight]
+[9, nine]
+
+PQ content after removing highest priority element [7, seven]
+[10, ten]
+[22, twenty two]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[8, eight]
+[9, nine]
+
+PQ content after removing highest priority element [8, eight]
+[10, ten]
+[22, twenty two]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+[9, nine]
+
+PQ content after removing highest priority element [9, nine]
+[10, ten]
+[22, twenty two]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+[9, nine]
+
+PQ content after removing highest priority element [9, nine]
+[10, ten]
+[22, twenty two]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+
+PQ content after removing highest priority element [10, ten]
+[22, twenty two]
+[13, thirteen]
+[23, twenty three]
+[100, hundred]
+
+PQ content after removing highest priority element [13, thirteen]
+[22, twenty two]
+[23, twenty three]
+[100, hundred]
+
+PQ content after removing highest priority element [22, twenty two]
+[23, twenty three]
+[100, hundred]
+
+PQ content after removing highest priority element [23, twenty three]
+[100, hundred]
+
+PQ content after removing highest priority element [100, hundred]
+EMPTY

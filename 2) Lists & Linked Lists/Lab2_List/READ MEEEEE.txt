@@ -1,0 +1,13 @@
+Method totalCount() is implemented in Main.java, 
+
+it's a static non-memeber method so I decided to place it in it's own Main class and
+call it statically from there.
+
+If you're gonna test out totalCount witha JUnit test case, make sure to change the 
+method call to:
+	
+	 Main.totalCount(s, array);
+
+This way, it's called statically and it can work for any array of type List<String>
+
+Example of JUnit calling it from Main class is on Lab2Tester.java

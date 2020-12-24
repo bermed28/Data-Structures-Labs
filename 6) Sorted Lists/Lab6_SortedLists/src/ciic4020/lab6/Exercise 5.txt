@@ -1,0 +1,13 @@
+Fill out the "table" below with the running time for the Sorted List ADT
+with different implementations.  The table cell borders are absent to make
+it easier for you to align the columns.
+
+=============================================================================
+= Method           Linked           Dynamic        Embedded       Embedded  =
+=                  structure        array          LinkedList     ArrayList =
+=============================================================================
+   add				O(n)			O(n)	 		O(n^2)			O(n)
+   remove			O(n)			O(n)			O(n)			O(n)
+   removeIndex		O(n)			O(n)			O(n)			O(n)
+   firstIndex		O(n)			O(log(n))		O(n)			O(n)
+   get				O(n)			O(1)			O(n)			O(1)

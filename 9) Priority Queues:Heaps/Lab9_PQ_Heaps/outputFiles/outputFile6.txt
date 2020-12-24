@@ -1,0 +1,38 @@
+
+Content of the array before 
+arr[0] = barrio
+arr[1] = pepe
+arr[2] = julia
+arr[3] = maria
+arr[4] = oliva
+arr[5] = meme
+arr[6] = parada
+arr[7] = baile
+arr[8] = enjendro
+arr[9] = vagabundo
+arr[10] = nota
+arr[11] = tienda
+arr[12] = zapato
+arr[13] = caballo
+arr[14] = cafe
+arr[15] = diodo
+arr[16] = multiplica
+
+Content of the array after 
+arr[0] = zapato
+arr[1] = vagabundo
+arr[2] = tienda
+arr[3] = pepe
+arr[4] = parada
+arr[5] = oliva
+arr[6] = nota
+arr[7] = multiplica
+arr[8] = meme
+arr[9] = maria
+arr[10] = julia
+arr[11] = enjendro
+arr[12] = diodo
+arr[13] = cafe
+arr[14] = caballo
+arr[15] = barrio
+arr[16] = baile
