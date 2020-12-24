@@ -1,6 +1,8 @@
 # Data-Structures-Labs
 Lab Activities during Spring 2020 CIIC4020 Course at UPRM
 
+Programming Language used in course : **Java**
+
 |Lab| Description | 
 |----------- | -------- |
 |1. Bags & Sets| Warming up with implementation of member & non-member methods of Bag & Set ADT| 
